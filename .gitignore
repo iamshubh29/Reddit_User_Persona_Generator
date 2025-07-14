@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+include/
+bin/
+share/
+
+# Environment variables
+.env
+
+# Output files
+output/*.txt
